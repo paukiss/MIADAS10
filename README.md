@@ -19,3 +19,4 @@ Este proyecto implementa un modelo de **Red Neuronal Profunda (DNN)** para prede
 - Daniel Erick Sanchez Trujillo
 - Felipe Roberto Sanchez Saravia
 - Sergio Alejandro Paucara Saca
+
